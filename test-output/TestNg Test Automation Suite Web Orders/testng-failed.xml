@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNg Test Automation Suite Web Orders]" parallel="none">
+  <test name="Different testng Feature Test Pages">
+    <classes>
+      <class name="com.amzn.qa.testcases.LoginPageTest"/>
+      <class name="com.amzn.qa.testcases.HomePageTest"/>
+      <class name="com.amzn.qa.testcases.ViewAllOrdersPageTest"/>
+    </classes>
+  </test> <!-- Different testng Feature Test Pages -->
+</suite> <!-- Failed suite [TestNg Test Automation Suite Web Orders] -->

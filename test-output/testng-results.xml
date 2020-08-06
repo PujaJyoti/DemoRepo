@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48321" started-at="2020-08-06T15:04:39Z" finished-at="2020-08-06T15:05:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48321" started-at="2020-08-06T15:04:39Z" finished-at="2020-08-06T15:05:27Z">
+      <class name="com.amzn.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="setup" is-config="true" duration-ms="11386" started-at="2020-08-06T20:34:39Z" finished-at="2020-08-06T20:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="titleTest" duration-ms="35" started-at="2020-08-06T20:34:51Z" finished-at="2020-08-06T20:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="teardown" is-config="true" duration-ms="117" started-at="2020-08-06T20:34:51Z" finished-at="2020-08-06T20:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="setup" is-config="true" duration-ms="8465" started-at="2020-08-06T20:34:51Z" finished-at="2020-08-06T20:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homeuserloginnameTest()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="homeuserloginnameTest" duration-ms="120" started-at="2020-08-06T20:34:59Z" finished-at="2020-08-06T20:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeuserloginnameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="teardown" is-config="true" duration-ms="232" started-at="2020-08-06T20:34:59Z" finished-at="2020-08-06T20:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="setup" is-config="true" duration-ms="8349" started-at="2020-08-06T20:35:00Z" finished-at="2020-08-06T20:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="viewallorderTest()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="viewallorderTest" duration-ms="639" started-at="2020-08-06T20:35:08Z" finished-at="2020-08-06T20:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewallorderTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="teardown" is-config="true" duration-ms="138" started-at="2020-08-06T20:35:08Z" finished-at="2020-08-06T20:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="setup" is-config="true" duration-ms="8438" started-at="2020-08-06T20:35:09Z" finished-at="2020-08-06T20:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="productsTest()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="productsTest" duration-ms="529" started-at="2020-08-06T20:35:17Z" finished-at="2020-08-06T20:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="teardown" is-config="true" duration-ms="116" started-at="2020-08-06T20:35:18Z" finished-at="2020-08-06T20:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="setup" is-config="true" duration-ms="8673" started-at="2020-08-06T20:35:18Z" finished-at="2020-08-06T20:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ordersTest()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="ordersTest" duration-ms="950" started-at="2020-08-06T20:35:26Z" finished-at="2020-08-06T20:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordersTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.amzn.qa.testcases.HomePageTest@2d6e8792]" name="teardown" is-config="true" duration-ms="113" started-at="2020-08-06T20:35:27Z" finished-at="2020-08-06T20:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.amzn.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

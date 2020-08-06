@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name ="TestNg Test Automation Suite Web Orders" >
+<listeners>
+<listener class-name="com.qa.extentreportlistener.ExtentReportListener"/>
+</listeners>
+<test name="Different testng Feature Test Pages">
+<classes> 
+<class name="com.amzn.qa.testcases.LoginPageTest" />
+<class name="com.amzn.qa.testcases.HomePageTest" />
+<class name="com.amzn.qa.testcases.ViewAllOrdersPageTest" />
+<class name="com.amzn.qa.testcases.OrdersPageTest" />
+</classes>
+</test>
+</suite>
